@@ -1,3 +1,3 @@
 # BIXECAMP
-Introdução a Programação Competitiva pelo grupo de extensão MaratonUSP
+Introduction to Competitive Programming by extension group MaratonUSP
 https://bit.ly/bixecamp2025
